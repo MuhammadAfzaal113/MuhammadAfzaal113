@@ -1,7 +1,5 @@
 ### Hi there, I'm Muhammad Afzaal 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on scrapy (python) project
 - 🌱 I’m currently learning data scrience
 - 👯 I’m looking to collaborate on data science
