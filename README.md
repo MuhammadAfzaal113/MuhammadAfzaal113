@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad Afzaal 👋
 
-- 🔭 I’m currently working on Python (scrapy) & Asp.net (MVC) projects 
+- 🔭 I’m currently working on Python (Django, RESTAPI, GraphQL) & web-backend projects 
 - 🌱 I’m currently learning data scrience
 - 👯 I’m looking to collaborate on data science
 - 🤔 I’m looking for help with data mining
